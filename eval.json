@@ -1,0 +1,2132 @@
+{
+    "data": [
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/A06_20220520_093000_294.0-297.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/A06_20220520_093000_213.0-216.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/B35_20220527_053000_270.0-273.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B38_20220527_093000_57.0-60.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_177.0-180.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A46_20220527_063000_231.0-234.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A28_20220414_083300_0.0-3.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220414_083300_12.0-15.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A28_20220414_063300_72.0-75.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220414_093300_114.0-117.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B10_20220421_102455_294.0-297.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_216.0-219.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_246.0-249.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/B36_20220421_062455_267.0-270.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B10_20220421_102455_273.0-276.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220414_073300_18.0-21.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_108.0-111.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220421_102455_117.0-120.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220527_083000_93.0-96.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_156.0-159.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220414_073300_36.0-39.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_132.0-135.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_162.0-165.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B38_20220520_083000_48.0-51.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/A06_20220520_083000_138.0-141.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220527_083000_147.0-150.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A28_20220414_063300_84.0-87.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220414_073300_33.0-36.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A28_20220414_063300_150.0-153.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220414_093300_120.0-123.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_84.0-87.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B44_20220414_103300_0.0-3.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220520_053000_33.0-36.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_0.0-3.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B49_20220520_093000_171.0-174.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A16_20220520_063000_108.0-111.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220520_053000_123.0-126.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_87.0-90.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220414_093300_117.0-120.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B10_20220421_102455_270.0-273.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A28_20220414_063300_45.0-48.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A43_20220421_092455_237.0-240.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B38_20220520_083000_69.0-72.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220520_053000_48.0-51.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220520_053000_117.0-120.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_147.0-150.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A49_20220520_093000_225.0-228.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A47_20220527_093000_54.0-57.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B10_20220421_102455_285.0-288.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A47_20220527_093000_60.0-63.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220520_053000_36.0-39.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220520_053000_18.0-21.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220414_093300_123.0-126.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A28_20220414_063300_153.0-156.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220414_093300_75.0-78.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220527_083000_228.0-231.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B49_20220520_093000_180.0-183.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A16_20220520_063000_132.0-135.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_24.0-27.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B11_20220414_083300_54.0-57.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_092455_33.0-36.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B14_20220414_083300_111.0-114.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_092455_36.0-39.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/A19_20220414_103300_159.0-162.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_072455_30.0-33.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_082455_63.0-66.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220414_093300_90.0-93.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_092455_129.0-132.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A16_20220520_063000_102.0-105.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_082455_201.0-204.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220414_073300_297.0-300.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_072455_294.0-297.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220421_102455_240.0-243.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220414_073300_129.0-132.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_092455_297.0-300.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_082455_111.0-114.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_082455_141.0-144.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220414_083300_105.0-108.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220414_063300_87.0-90.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A49_20220520_093000_0.0-3.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_082455_72.0-75.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B11_20220414_083300_15.0-18.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B14_20220414_083300_102.0-105.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B14_20220414_083300_108.0-111.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/A19_20220414_083300_288.0-291.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B16_20220414_093300_42.0-45.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B28_20220414_103300_96.0-99.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B16_20220421_082455_108.0-111.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220414_073300_138.0-141.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/A37_20220421_072455_87.0-90.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A49_20220520_053000_135.0-138.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/A37_20220421_072455_216.0-219.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_092455_105.0-108.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_082455_243.0-246.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_082455_45.0-48.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_082455_87.0-90.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220414_063300_72.0-75.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/A28_20220414_103300_6.0-9.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220414_063300_195.0-198.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B11_20220414_103300_231.0-234.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220414_073300_144.0-147.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A49_20220520_053000_105.0-108.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/A37_20220414_083300_165.0-168.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_072455_183.0-186.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_082455_150.0-153.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220414_083300_60.0-63.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/A35_20220414_093300_69.0-72.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/A37_20220414_103300_252.0-255.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_072455_27.0-30.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B33_20220414_093300_87.0-90.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_072455_72.0-75.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/B38_20220421_082455_210.0-213.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/A06_20220520_093000_249.0-252.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A49_20220520_093000_78.0-81.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4554/A35_20220414_093300_219.0-222.0.wav",
+            "labels": "4554"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_117.0-120.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B07_20220520_063000_111.0-114.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B07_20220520_063000_141.0-144.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_103300_60.0-63.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B36_20220520_083000_285.0-288.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B21_20220520_083000_84.0-87.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A34_20220527_063000_261.0-264.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_093000_15.0-18.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A08_20220414_063300_147.0-150.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A49_20220520_093000_234.0-237.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_78.0-81.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_84.0-87.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_093300_267.0-270.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220527_063000_9.0-12.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_093300_27.0-30.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_083300_159.0-162.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_103300_120.0-123.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220527_083000_87.0-90.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220527_083000_45.0-48.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_147.0-150.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A49_20220520_053000_138.0-141.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_103300_42.0-45.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_6.0-9.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_053000_228.0-231.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_252.0-255.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B36_20220520_083000_240.0-243.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_083300_21.0-24.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B07_20220520_063000_180.0-183.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A41_20220527_063000_39.0-42.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B45_20220414_083300_21.0-24.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_063300_186.0-189.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A49_20220520_093000_237.0-240.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A44_20220527_083000_240.0-243.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A03_20220414_103300_42.0-45.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_083000_288.0-291.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_083300_282.0-285.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B12_20220527_083000_66.0-69.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_053000_108.0-111.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_129.0-132.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A41_20220527_083000_180.0-183.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_126.0-129.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_073300_15.0-18.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A49_20220520_053000_72.0-75.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_267.0-270.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_103300_120.0-123.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B43_20220527_083000_126.0-129.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A10_20220520_093000_60.0-63.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_225.0-228.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_198.0-201.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_103300_12.0-15.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A41_20220527_093000_6.0-9.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B07_20220527_093000_207.0-210.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A43_20220520_093000_111.0-114.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1469/A49_20220520_053000_117.0-120.0.wav",
+            "labels": "1469"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A08_20220414_063300_54.0-57.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A03_20220414_063300_201.0-204.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220414_063300_72.0-75.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A08_20220414_063300_60.0-63.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_063300_267.0-270.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_42.0-45.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_063300_207.0-210.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_073300_45.0-48.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_073300_219.0-222.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220421_082455_243.0-246.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220414_063300_123.0-126.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B12_20220520_083000_258.0-261.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_186.0-189.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_073000_288.0-291.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_165.0-168.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A03_20220414_103300_51.0-54.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_083300_219.0-222.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_0.0-3.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A10_20220520_083000_51.0-54.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_083300_27.0-30.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B36_20220520_093000_81.0-84.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220414_093300_135.0-138.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_27.0-30.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A08_20220414_063300_93.0-96.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_083000_219.0-222.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_083300_15.0-18.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B12_20220520_083000_285.0-288.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A48_20220527_073000_123.0-126.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_186.0-189.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_103300_114.0-117.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220414_063300_246.0-249.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_093300_9.0-12.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_083300_57.0-60.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B12_20220527_083000_0.0-3.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_72.0-75.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A03_20220414_103300_30.0-33.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A44_20220520_063000_27.0-30.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_093300_84.0-87.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_138.0-141.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_27.0-30.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B45_20220414_083300_15.0-18.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A41_20220527_093000_135.0-138.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A41_20220527_083000_243.0-246.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B10_20220414_073300_258.0-261.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_103300_114.0-117.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A19_20220527_093000_105.0-108.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220527_093000_243.0-246.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_72.0-75.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A33_20220414_063300_75.0-78.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_073300_21.0-24.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_103300_90.0-93.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B36_20220520_083000_288.0-291.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_24.0-27.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B12_20220520_093000_9.0-12.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/A06_20220520_073000_123.0-126.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_093300_234.0-237.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_48.0-51.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_264.0-267.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_204.0-207.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_103300_186.0-189.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_234.0-237.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220527_093000_252.0-255.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A05_20220414_093300_183.0-186.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B07_20220520_093000_9.0-12.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A10_20220520_083000_258.0-261.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_083300_258.0-261.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_083300_75.0-78.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A44_20220527_083000_282.0-285.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A51_20220414_103300_42.0-45.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_3.0-6.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B45_20220414_083300_291.0-294.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_36.0-39.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_174.0-177.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_093300_225.0-228.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_083300_210.0-213.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220414_063300_297.0-300.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B01_20220520_093000_150.0-153.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_073300_279.0-282.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_083000_258.0-261.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_083000_210.0-213.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A03_20220414_093300_24.0-27.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_083300_84.0-87.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_073300_78.0-81.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A10_20220520_083000_195.0-198.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_073300_27.0-30.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_144.0-147.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_174.0-177.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A03_20220414_103300_39.0-42.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220414_073300_69.0-72.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_093300_264.0-267.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_33.0-36.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A48_20220520_053000_225.0-228.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B01_20220520_053000_153.0-156.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_053000_78.0-81.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_141.0-144.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_171.0-174.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_111.0-114.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B21_20220520_093000_24.0-27.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_21.0-24.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_083300_270.0-273.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_063000_87.0-90.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_231.0-234.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_201.0-204.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B45_20220414_083300_120.0-123.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_261.0-264.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B12_20220527_083000_54.0-57.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_237.0-240.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_093300_114.0-117.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A44_20220520_073000_165.0-168.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_21.0-24.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_083300_240.0-243.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_177.0-180.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_093300_15.0-18.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_073300_189.0-192.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B45_20220414_093300_9.0-12.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_255.0-258.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_234.0-237.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_204.0-207.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_39.0-42.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B38_20220414_063300_261.0-264.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_093300_117.0-120.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_083300_210.0-213.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A03_20220414_103300_33.0-36.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A43_20220520_073000_99.0-102.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_120.0-123.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_156.0-159.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_063000_114.0-117.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A33_20220421_102455_12.0-15.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_153.0-156.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_108.0-111.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_168.0-171.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A08_20220414_063300_279.0-282.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220421_102455_174.0-177.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_103300_15.0-18.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B45_20220414_083300_150.0-153.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_279.0-282.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_073300_174.0-177.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_073300_114.0-117.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_063300_285.0-288.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A33_20220421_092455_258.0-261.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_093300_180.0-183.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_083300_69.0-72.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B07_20220527_053000_153.0-156.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220414_063300_42.0-45.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_225.0-228.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A33_20220421_092455_210.0-213.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_093300_90.0-93.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_053000_189.0-192.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_180.0-183.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_144.0-147.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A49_20220527_083000_126.0-129.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_114.0-117.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_60.0-63.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_083300_297.0-300.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220414_063300_117.0-120.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_111.0-114.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_171.0-174.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_063300_273.0-276.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_083300_138.0-141.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_103300_0.0-3.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_96.0-99.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_261.0-264.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_201.0-204.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_231.0-234.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_54.0-57.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/A06_20220520_053000_270.0-273.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B12_20220414_073300_75.0-78.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B07_20220520_093000_87.0-90.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_073300_165.0-168.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_073300_105.0-108.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A10_20220520_073000_225.0-228.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_063300_273.0-276.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_063300_213.0-216.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A08_20220414_063300_261.0-264.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B01_20220527_063000_0.0-3.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A41_20220520_093000_123.0-126.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A19_20220520_083000_231.0-234.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220414_103300_177.0-180.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_103300_3.0-6.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_073000_165.0-168.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_093300_255.0-258.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B07_20220527_063000_111.0-114.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A51_20220414_103300_9.0-12.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_234.0-237.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B05_20220414_063300_264.0-267.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_083300_18.0-21.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_083300_105.0-108.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_083300_135.0-138.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_083300_150.0-153.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B11_20220414_093300_189.0-192.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B45_20220414_083300_48.0-51.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B45_20220414_063300_297.0-300.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B49_20220520_083000_57.0-60.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_261.0-264.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_231.0-234.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_201.0-204.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A03_20220414_103300_27.0-30.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_063300_255.0-258.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B14_20220414_083300_36.0-39.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_063300_69.0-72.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A35_20220414_103300_198.0-201.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B45_20220414_093300_63.0-66.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B34_20220414_083300_51.0-54.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B38_20220421_062455_27.0-30.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/A46_20220520_063000_96.0-99.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/116/B16_20220414_093300_288.0-291.0.wav",
+            "labels": "116"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_063000_156.0-159.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B34_20220421_102455_51.0-54.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/A08_20220414_103300_60.0-63.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B43_20220527_083000_186.0-189.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_093300_237.0-240.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_053000_258.0-261.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B25_20220520_053000_24.0-27.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B16_20220414_073300_9.0-12.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B16_20220414_073300_18.0-21.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B33_20220414_073300_123.0-126.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B34_20220527_083000_153.0-156.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B16_20220414_073300_36.0-39.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B43_20220527_083000_78.0-81.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B45_20220414_093300_54.0-57.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B05_20220520_063000_87.0-90.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_063300_60.0-63.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/A13_20220414_103300_12.0-15.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_093000_153.0-156.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_073000_297.0-300.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/A03_20220414_063300_6.0-9.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_093000_273.0-276.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/A41_20220527_083000_264.0-267.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B43_20220527_083000_81.0-84.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B15_20220520_073000_216.0-219.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_053000_189.0-192.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/A33_20220421_072455_9.0-12.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220414_103300_108.0-111.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_063000_249.0-252.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_053000_81.0-84.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/A44_20220520_073000_75.0-78.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_093000_27.0-30.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_093000_201.0-204.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B12_20220520_073000_165.0-168.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/A41_20220520_073000_252.0-255.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B14_20220421_092455_24.0-27.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/A43_20220421_102455_27.0-30.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/A43_20220421_102455_72.0-75.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220414_103300_168.0-171.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/A48_20220520_083000_132.0-135.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/1805/B43_20220527_083000_168.0-171.0.wav",
+            "labels": "1805"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/B49_20220520_093000_30.0-33.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A12_20220520_093000_270.0-273.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A46_20220520_053000_60.0-63.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/B49_20220520_093000_51.0-54.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A12_20220520_073000_120.0-123.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A46_20220520_073000_39.0-42.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A46_20220520_053000_120.0-123.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A46_20220520_053000_9.0-12.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220414_103300_102.0-105.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/B12_20220520_063000_249.0-252.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A12_20220520_063000_78.0-81.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A16_20220520_083000_174.0-177.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/B12_20220520_063000_294.0-297.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/B12_20220520_063000_243.0-246.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/B49_20220520_053000_282.0-285.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A34_20220520_063000_198.0-201.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A12_20220520_063000_183.0-186.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A46_20220520_093000_297.0-300.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A12_20220520_053000_153.0-156.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/A28_20220414_073300_270.0-273.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/B49_20220520_053000_0.0-3.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A04_20220520_063000_87.0-90.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A47_20220520_083000_51.0-54.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A12_20220520_073000_267.0-270.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A12_20220520_063000_288.0-291.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A46_20220520_073000_252.0-255.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/B49_20220520_093000_141.0-144.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A46_20220520_053000_207.0-210.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A35_20220414_093300_255.0-258.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A46_20220520_083000_198.0-201.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/A06_20220520_053000_240.0-243.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2829/B11_20220414_063300_138.0-141.0.wav",
+            "labels": "2829"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A12_20220520_053000_252.0-255.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A12_20220520_053000_6.0-9.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A46_20220520_073000_51.0-54.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4669/A46_20220520_053000_75.0-78.0.wav",
+            "labels": "4669"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_183.0-186.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/A35_20220421_102455_129.0-132.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_180.0-183.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_255.0-258.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_231.0-234.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_261.0-264.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4577/B38_20220414_083300_84.0-87.0.wav",
+            "labels": "4577"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_273.0-276.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_243.0-246.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_249.0-252.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B12_20220421_102455_60.0-63.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/A47_20220520_083000_207.0-210.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_177.0-180.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B49_20220520_063000_63.0-66.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B33_20220414_103300_12.0-15.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_222.0-225.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_216.0-219.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4577/A19_20220520_063000_219.0-222.0.wav",
+            "labels": "4577"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/A48_20220421_082455_117.0-120.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_267.0-270.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/A35_20220421_102455_126.0-129.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/A35_20220421_062455_141.0-144.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/A43_20220414_073300_159.0-162.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_237.0-240.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B14_20220414_063300_279.0-282.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_291.0-294.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/A28_20220414_103300_54.0-57.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_297.0-300.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4577/B31_20220520_063000_267.0-270.0.wav",
+            "labels": "4577"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/A28_20220414_103300_60.0-63.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4605/B08_20220520_083000_225.0-228.0.wav",
+            "labels": "4605"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4577/B34_20220414_063300_3.0-6.0.wav",
+            "labels": "4577"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4577/B31_20220520_073000_288.0-291.0.wav",
+            "labels": "4577"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4577/B34_20220414_093300_81.0-84.0.wav",
+            "labels": "4577"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4577/B34_20220414_073300_219.0-222.0.wav",
+            "labels": "4577"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/B10_20220414_073300_57.0-60.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/B48_20220520_063000_186.0-189.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/A06_20220520_073000_30.0-33.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A51_20220414_103300_237.0-240.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A43_20220414_073300_51.0-54.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A47_20220520_053000_171.0-174.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A19_20220414_073300_147.0-150.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A38_20220414_073300_276.0-279.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/B48_20220414_073300_78.0-81.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/B16_20220414_083300_285.0-288.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A43_20220414_073300_225.0-228.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A46_20220520_053000_210.0-213.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/B07_20220414_073300_66.0-69.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/B49_20220421_072455_210.0-213.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A17_20220520_053000_237.0-240.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A43_20220414_073300_135.0-138.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/B16_20220414_083300_195.0-198.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A47_20220520_053000_261.0-264.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/B07_20220421_062455_72.0-75.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A12_20220520_063000_42.0-45.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/B27_20220414_093300_273.0-276.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A34_20220520_053000_0.0-3.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A46_20220520_083000_165.0-168.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A48_20220414_083300_159.0-162.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/A06_20220520_053000_57.0-60.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A46_20220520_093000_213.0-216.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A33_20220421_102455_123.0-126.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/B07_20220414_083300_30.0-33.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/4579/A47_20220520_063000_270.0-273.0.wav",
+            "labels": "4579"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220527_083000_174.0-177.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_21.0-24.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B43_20220520_053000_138.0-141.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A35_20220421_082455_99.0-102.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B38_20220527_093000_60.0-63.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220527_083000_90.0-93.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2998/B49_20220421_062455_39.0-42.0.wav",
+            "labels": "2998"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220527_063000_54.0-57.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220520_053000_54.0-57.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220414_073300_39.0-42.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220520_053000_60.0-63.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220527_083000_69.0-72.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B16_20220421_072455_120.0-123.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B38_20220520_083000_39.0-42.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B10_20220421_102455_231.0-234.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/A38_20220421_062455_246.0-249.0.wav",
+            "labels": "2159"
+        },
+        {
+            "wav": "/home/taan222d/ssast/src/pretrain/in_tags/2159/B39_20220527_083000_186.0-189.0.wav",
+            "labels": "2159"
+        }
+    ]
+}
